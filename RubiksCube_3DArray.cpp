@@ -2,8 +2,6 @@
 // Created by dhrur on 24-06-2024.
 //
 
-// #include "RubiksCube_3DArray.h"
-
 #include "RubiksCube.h"
 
 class RubiksCube3dArray : public RubiksCube {
